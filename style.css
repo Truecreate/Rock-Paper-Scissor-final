@@ -27,6 +27,7 @@ body {
   font-size: 25px;
   font-weight: bold;
   margin-top: 50px;
+  margin-left: 30px;
 }
 
 .score {
@@ -39,4 +40,5 @@ body {
   font-size: 15px;
   padding: 8px 15px;
   cursor: pointer;
+
 }
